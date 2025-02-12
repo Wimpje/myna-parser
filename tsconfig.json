@@ -4,7 +4,8 @@
 		"target": "ES5",
 		"module": "commonjs",
 		"sourceMap": true,
-		"noUnusedLocals": true
+		"noUnusedLocals": true,
+		"declaration": true,
 	},
 	"include": [
 		"*.ts",
